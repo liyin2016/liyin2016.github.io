@@ -5,7 +5,7 @@
 
 # Site
 title: Carson'Blog
-subtitle: Carson'Blog
+subtitle: 八小时工作,八小时学习！
 description: 八小时工作,八小时学习！
 author: Carson
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -118,11 +118,11 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  about: /about/
   archives: /archives/
+  about: /about/
   tags: /tags/
   #sitemap: /sitemap.xml
-  commonweal: /404.html
+  #commonweal: /404.html
 
 
 # Enable/Disable menu icons.
